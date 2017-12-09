@@ -1,1 +1,1 @@
-web: gunicorn nabinsimple.wsgi  --log-file -
+web: gunicorn main_app  --log-file -
