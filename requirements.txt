@@ -1,7 +1,2 @@
 Flask==0.11.1
-Flask-Admin==1.4.1
-Flask-Cache==0.13.1
-Flask-Login==0.2.11
-flask-swagger==0.2.13
-Flask-WTF==0.12
 gunicorn==19.3.0
