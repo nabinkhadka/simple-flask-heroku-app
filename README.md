@@ -1,9 +1,10 @@
 # simple-flask-heroku-app
 The simplest flask app that can be run on heroku server.
 
-# Only thing to understand here is Procfile
-Here `app:app` is something similar to `from app import app`
+# Two important things to notice
+1. Here `app:app` is something similar to `from app import app`
 First `app` is written because of filename and second `app` is written because of the variable in the file which is our app to run by gunicorn
+2. `requirements.txt` file is absolutely necessary for heroku to understand that this is python project
 
 
 ## Tips and tricks for heroku
