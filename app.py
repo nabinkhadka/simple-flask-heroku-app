@@ -5,5 +5,3 @@ app = flask.Flask(__name__)
 def index():
     #do whatevr here...
     return "Hello Heruko"
-
-#app.run()
