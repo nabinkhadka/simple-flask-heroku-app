@@ -8,6 +8,6 @@ First `app` is written because of filename and second `app` is written because o
 
 
 ## Tips and tricks for heroku
-1. `heroku logs -t` to view server logs continuously
+1. `heroku logs -t -a <app_name>` to view server logs continuously
 2. `heroku ps` to see running thread/service
 3. `https://devcenter.heroku.com/articles/getting-started-with-python#introduction` for more
