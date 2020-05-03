@@ -1,5 +1,5 @@
 # simple-flask-heroku-app
-The simplest flask app that can be run on heroku server.
+In a couple of minutes, deploy the simplest flask app that can be run on heroku server.
 
 # Two important things to notice
 1. Here `app:app` is something similar to `from app import app`
